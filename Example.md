@@ -56,4 +56,4 @@ Ahora voy a probar creando un reposiorio (inicializando) localmente y sincroniza
 
 This is an extra line to test editing a file a viw changes. To check what has being change you use git diff
 
-git diff cached is for staging area changes
+git diff --cached is for staging area changes
