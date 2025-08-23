@@ -7,4 +7,6 @@ untracked files are files that are not added to the staging area.
 
  git branch + branchname se usa para crear el branch y usamos git checkout + name of the branch para saltarnos al branch
 
+con git push --set-upstream origin logfolder (nombre del branch) podemos agregarla al repo sin errores
 
+Pull requests are used to merge two branches, allowing team members to review, give feedback, and approve changes before merging.
