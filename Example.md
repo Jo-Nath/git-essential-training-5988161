@@ -57,3 +57,20 @@ Ahora voy a probar creando un reposiorio (inicializando) localmente y sincroniza
 This is an extra line to test editing a file a viw changes. To check what has being change you use git diff
 
 git diff --cached is for staging area changes
+
+
+Here is an extra line to work with undo changes
+
+
+Con git log vemos el historial de commits
+
+usa el id del commit in git log para usando git show + id veas todo los cambios en eso
+
+con git log --oneline da una linea de id y titulos de commits mas corta y legible
+
+hay otras formas de usar git log tambien
+
+
+con git checkout puedo ir/ver a un commit anterior 
+
+git checkout + the name of the branch me permite volver al commit actual
