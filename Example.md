@@ -74,3 +74,5 @@ hay otras formas de usar git log tambien
 con git checkout puedo ir/ver a un commit anterior 
 
 git checkout + the name of the branch me permite volver al commit actual
+
+
