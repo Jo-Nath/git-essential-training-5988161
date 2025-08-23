@@ -4,3 +4,7 @@ untracked files are files that are not added to the staging area.
  use git add to include in the next commit
 
  git restore to discard changes
+
+ git branch + branchname se usa para crear el branch y usamos git checkout + name of the branch para saltarnos al branch
+
+
